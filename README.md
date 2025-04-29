@@ -34,7 +34,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load image with safe path
-image = cv2.imread(r'C:\Users\admin\Downloads\eif.jpeg')  
+image = cv2.imread(r"C:\Users\admin\Downloads\Gate way of india _Travel india1.jpg")  
 if image is None:
     print("Error: Could not load the image. Check the file path.")
 else:
